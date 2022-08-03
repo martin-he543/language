@@ -53,14 +53,14 @@ It makes most sense to begin with a concept universal in all languages: the numb
 900 non-cem
 
 ### Larger Numbers
-1,000           tus         N.B. Irregular
+1,000           tus
 10,000          dek-tus
 100,000         cem-tus
 
-1,000,000       mil         N.B. Irregular
+1,000,000       mil
 10,000,000      dek-mil
 100,000,000     cem-mil
-1,000,000,000   dil         N.B. Irregular
+1,000,000,000   dil
 10,000,000,000  dek-dil
 100,000,000,000 cem-dil
 1×10¹²           triil
